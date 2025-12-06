@@ -15,7 +15,7 @@ export default function Header() {
     <header style={headerStyle}>
       <div>
         <Link to="/dashboard" style={{ color: "white", textDecoration: "none" }}>
-          <strong>Suporte</strong>
+          <strong>HelpDesk</strong>
         </Link>
       </div>
       <nav>
